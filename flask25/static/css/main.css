@@ -1,0 +1,47 @@
+body {
+      margin:0;
+      font-family: sans-serif;
+      display: flex; /* Use flexbox */
+      justify-content: center; /* Center horizontally */
+      align-items: center;
+
+
+
+.bottom-left {
+    position: fixed;
+    top: 50;
+    left: 70;
+    width: 20px;
+    height: auto;
+}
+/* GIF container styling */
+
+/* SVG icon styling */
+.position-relative {
+    position: relative;
+}
+
+.icon {
+    position: absolute;
+    right: 10px; /* Adjust position as needed */
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+}
+
+.title {
+    font-size: 2em;
+    margin-bottom: 0.5em;
+    text-align: center;
+}
+
+#myChart {
+  margin: 0 auto; /* Center horizontally */
+  display: block; /* Ensure it behaves like a block element */
+  margin-top: 100px; /* Adjust as needed */
+}
+
+.form-control {
+  background-color: rgba(255, 255, 255, 0.5); /* Semi-transparent white background */
+}
