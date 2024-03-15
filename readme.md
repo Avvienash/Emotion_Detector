@@ -54,7 +54,7 @@ This repository contains code for a simple web application that detects emotions
 ## Demo
 
 Below is a simple video demo of the project.
-[![Demo Video](/demo.mp4)
+![Demo Video](https://youtu.be/Uha5YxlLrzg)
 
 
 ## License
