@@ -1,15 +1,20 @@
-# Emotion Detection Web Application (Weekend Project)
+# Emotion Detection Web Application 🧠 (Weekend Project)
+
+![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
+![Flask](https://img.shields.io/badge/Flask-2.1+-blue.svg)
+![Chart.js](https://img.shields.io/badge/Chart.js-3.7+-blue.svg)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-5.0+-blue.svg)
 
 This repository contains code for a simple web application that detects emotions from text input using Flask and displays the results using Chart.js. The application utilizes the `text2emotion` library to analyze the emotional content of the text.
 
-## Features
+## Features 🚀
 
 - Users can input text to analyze emotions.
 - Emotion analysis results are displayed as a bar chart.
 - Supports emotions such as Happy, Angry, Surprised, Sad, and Fear.
 - User-friendly interface with Bootstrap for styling.
 
-## Installation
+## Installation 🛠️
 
 1. Clone the repository:
 
@@ -29,7 +34,7 @@ This repository contains code for a simple web application that detects emotions
     pip install -r requirements.txt
     ```
 
-## Usage
+## Usage 🚀
 
 1. Run the Flask application:
 
@@ -44,7 +49,3 @@ This repository contains code for a simple web application that detects emotions
 4. Emotion analysis results will be displayed as a bar chart.
 
 
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
