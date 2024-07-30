@@ -1,13 +1,6 @@
-# Emotion Detection Web Application
+# Emotion Detection Web Application (Weekend Project)
 
 This repository contains code for a simple web application that detects emotions from text input using Flask and displays the results using Chart.js. The application utilizes the `text2emotion` library to analyze the emotional content of the text.
-
-## Table of Contents
-
-- [Features](#features)
-- [Usage](#usage)
-- [Demo](#Demo)
-- [License](#license)
 
 ## Features
 
@@ -50,11 +43,6 @@ This repository contains code for a simple web application that detects emotions
 
 4. Emotion analysis results will be displayed as a bar chart.
 
-
-## Demo
-
-Below is a simple video demo of the project.
-![Demo Video](https://youtu.be/Uha5YxlLrzg)
 
 
 ## License
